@@ -7,6 +7,7 @@ module.exports = {
             lang: 'zh-CN'
         }
     },
+    base: "/vuepressHexo/",
     themeConfig: {
         category: {
             location: 2,
